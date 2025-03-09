@@ -1,0 +1,6 @@
+name: AntiDDOS
+main: Terra\AntiDDOS\AntiDDOS
+version: 1.0.0
+api: 5.0.0
+author: knzoch
+description: Plugin untuk melindungi server dari DDoS
