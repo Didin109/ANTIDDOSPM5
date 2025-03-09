@@ -1,0 +1,5 @@
+projects:
+  AntiDDOSPM5:
+    path: ""
+    model: plugin
+    version: 1.0.0
